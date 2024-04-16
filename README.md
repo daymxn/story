@@ -10,7 +10,7 @@
 > Simple UI binding library for Roblox.
 
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/daymxn/story?style=flat-square)
-![GitHub last commit (branch)](https://img.shields.io/github/last-commit/daymxn/story/main?style=flat-square)
+![GitHub last commit (branch)](https://img.shields.io/github/last-commit/daymxn/story/master?style=flat-square)
 ![GitHub issues](https://img.shields.io/github/issues/daymxn/story?style=flat-square)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/daymxn/story?style=flat-square)
 ![GitHub](https://img.shields.io/github/license/daymxn/story?style=flat-square)
