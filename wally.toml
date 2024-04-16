@@ -1,0 +1,14 @@
+[package]
+name = "daymxn/story"
+description = "Simple UI binding library for Roblox."
+license = "Apache-2.0"
+authors = ["Daymon <dev@daymxn.com>"]
+version = "1.0.0"
+
+registry = "https://github.com/UpliftGames/wally-index"
+realm = "shared"
+
+exclude = ["**"]
+include = ["src", "src/*", "default.project.json", "wally.lock", "wally.toml", "LICENSE"]
+
+[dependencies]
