@@ -44,11 +44,13 @@ conditions (such as state updates).
 ## Alternatives
 
 `What makes this better than React/Roact?`
+
 React is my go-to for new projects, and I highly reccomend it for new projects!
 But react falls short when it comes to binding to an already created UI- it's more-so
 applicable to creating the UI from code entirely, instead of binding to it externally.
 
 `What about hydration in Fusion?`
+
 Fusion is a great alternative, especially if you're already familiar with it!
 But Fusion comes with a lot of behind the scenes magic to make its hydration work,
 which is a big part of why they're still not officially released. Story is very
