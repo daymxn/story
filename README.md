@@ -21,7 +21,7 @@
 
 ## Installation
 
-You can install Story automatically with wally:
+You can install Story automatically with [wally](https://wally.run/package/daymxn/story):
 
 ```toml
 story = "daymxn/story@1.0.0"
